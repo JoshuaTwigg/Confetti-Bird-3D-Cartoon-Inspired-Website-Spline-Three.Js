@@ -1,0 +1,279 @@
+body {
+    background-image: url("Egypt-sunset.png");
+    background-repeat: no-repeat;
+    z-index: 11;
+    /* background-size: cover; */
+    position: relative;
+    
+    margin: 0;
+}
+
+hgroup{
+    text-align: center;
+    background-image: url("jh.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+  
+}
+
+canvas{
+ 
+}
+
+
+#highestBlob{
+    text-align: center;
+    margin: auto;
+    position: relative;
+   
+}
+
+article{
+    position: absolute;
+    top:40%
+}
+
+
+
+#first{
+    width:350px;
+    left:37%;
+    top:45%;
+    position: absolute;
+}
+
+#second{
+    width:350px;
+    left:35%;
+    top:53%;
+    position: absolute;
+}
+
+#third{
+    width:450px;
+    height:400px;
+    right:65%;
+    top:60%;
+    position: absolute;
+}
+
+#fourth{
+    width:250px;
+    left:50%;
+    top:25%;
+    position: absolute;
+}
+
+#fifth{
+    width:450px;
+    height:400px;
+    left:30%;
+    /* top:32%; */
+    top:17%;
+    position: absolute;
+    
+
+}
+
+#girl{
+    /* margin-top: 200px; */
+}
+
+
+#blobBottom{
+    /* background:url("x.png"); */
+    display:block;
+    width:100%;
+    height: 380px;
+    top:10%
+}
+
+#blobBottom img{
+    display:block;
+    height: 400px;
+    
+}
+
+#heading{
+    height: 100px;
+    margin-top: 150px;
+}
+
+
+
+#centerContent{
+    text-align: center;
+    position: relative;
+    background: linear-gradient(#F342C6, yellow, #4646F2);
+
+}
+
+#zz{
+  
+    text-align: center;
+    width:1000px;
+    height:1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#zzz{
+  
+    text-align: center;
+    width:300px;
+    height:1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#text1{
+    position: absolute;
+    right:30%;
+    /* top:29%; */
+    width:500px;
+    height:90px;
+    top:12%
+ 
+}
+
+#text2{
+    position: absolute;
+    right:30%;
+    /* top:32%; */
+    top:17%
+    
+}
+
+
+
+
+#sphere{
+ 
+    position: absolute;
+    top:1400px;
+    z-index: 12;
+    border-radius: 10000px;
+}
+
+#creature{
+    position: absolute;
+    top:1250px;
+    z-index: 12;
+    border-radius: 1000px;
+}
+
+#wave1{
+    width: 100%;
+    height:100%;
+    position: relative;
+    
+}
+
+.wave{
+    width: 100%;
+    height: 100%;
+}
+
+#a{
+   background-color: black;
+}
+
+#z{
+    height:300px;
+    width:100%;
+    
+}
+
+#z2{
+    height:100px;
+    width:100%;
+}
+
+#a div img{
+    height:100px;
+    width:10px;
+    
+}
+
+
+#div1{
+    
+
+   
+   
+
+}
+
+#div1 img{
+    
+}
+
+#colorBlockOne{
+    background-color: blue;
+}
+
+#colorBlockTwo{
+    background-color: blue;
+}
+
+
+
+@media only screen and (max-width:800px){
+    #text1{
+        position: absolute;
+        right:25%;
+        /* top:29%; */
+        width:500px;
+        height:90px;
+        top:12%
+     
+    }
+    
+    #text2{
+        position: absolute;
+        right:25%;
+        /* top:32%; */
+        top:17%
+        
+    }
+
+}
+
+@media only screen and (max-width:1100px){
+    #text1{
+        position: absolute;
+        left:45%;
+        /* top:29%; */
+        width:500px;
+        height:90px;
+        top:9%
+     
+    }
+    
+    #text2{
+        position: absolute;
+        left:40%;
+        /* top:32%; */
+        top:12%
+        
+    }
+
+    #fifth{
+        width:450px;
+    height:400px;
+    left:30%;
+    /* top:32%; */
+    top:12%;
+    position: absolute;
+    }
+
+}
+
+@media only screen and (max-width:800px){
+  #girlText{
+
+  }
+
+}
